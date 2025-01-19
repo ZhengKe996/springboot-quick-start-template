@@ -1,4 +1,4 @@
-# SpringBoot Template
+# SpringBoot3 Template
 
 ## 主流框架 & 特性
 
